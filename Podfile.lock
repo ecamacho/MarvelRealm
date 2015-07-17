@@ -1,0 +1,18 @@
+PODS:
+  - HanekeSwift (0.9.1)
+  - Realm (0.93.2):
+    - Realm/Headers (= 0.93.2)
+  - Realm/Headers (0.93.2)
+  - RealmSwift (0.93.2):
+    - Realm (= 0.93.2)
+
+DEPENDENCIES:
+  - HanekeSwift
+  - RealmSwift (~> 0.93)
+
+SPEC CHECKSUMS:
+  HanekeSwift: 50d37bfbc4432edc649167e538c259feccb4a2bb
+  Realm: 2fdd0ae74f730e190384e0338d8a0d3654df8220
+  RealmSwift: 231b064da9f98b1c4f325fe1f1cb8756aae2b8d6
+
+COCOAPODS: 0.37.2

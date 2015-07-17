@@ -1,0 +1,6 @@
+framework module RealmSwift {
+  umbrella header "Pods-MarvelRealmTests-RealmSwift-umbrella.h"
+
+  export *
+  module * { export * }
+}
